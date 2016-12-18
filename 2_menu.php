@@ -1,4 +1,5 @@
 <?php
+// a
 if (!($view2==1 or $file>=$middle or $mfile>=$middle or $file2>=$middle))
 {
 ?>
